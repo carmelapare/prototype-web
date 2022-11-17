@@ -1,8 +1,8 @@
-Getting Started with MRT Route Web App
+# Getting Started with Auth0 Prototype (ReactJS)
 This project was bootstrapped with Create React App.
 
-Install application packages
+### Install application packages
 npm install 
 
-Run the web application
+### Run the web application
 npm start

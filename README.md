@@ -19,10 +19,11 @@ cd prototype-web
 ```sh
 npm install
 ```
-8. Run your app
+8. Create an .env file and paste the needed values as provided on .env.sample
+9. Run your app
 ```sh 
 npm start
 ```
     
-7. On your browser, you should be able to see this application running on: localhost:3000
+10. On your browser, you should be able to see this application running on: localhost:3000
 
